@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\GPS_To_Position\GPS_To_Position\bin\Debug\GPS_To_Position.exe.config
+c:\users\user\documents\visual studio 2015\Projects\GPS_To_Position\GPS_To_Position\obj\Debug\GPS_To_Position.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\GPS_To_Position\GPS_To_Position\obj\Debug\GPS_To_Position.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\GPS_To_Position\GPS_To_Position\obj\Debug\GPS_To_Position.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\GPS_To_Position\GPS_To_Position\obj\Debug\GPS_To_Position.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\GPS_To_Position\GPS_To_Position\bin\Debug\GPS_To_Position.exe
+c:\users\user\documents\visual studio 2015\Projects\GPS_To_Position\GPS_To_Position\bin\Debug\GPS_To_Position.pdb
+c:\users\user\documents\visual studio 2015\Projects\GPS_To_Position\GPS_To_Position\obj\Debug\GPS_To_Position.exe
+c:\users\user\documents\visual studio 2015\Projects\GPS_To_Position\GPS_To_Position\obj\Debug\GPS_To_Position.pdb
